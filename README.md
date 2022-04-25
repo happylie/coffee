@@ -9,7 +9,7 @@
 - https://www.krcert.or.kr/data/secInfoList.do
 #### + Tool
 - https://www.kitploit.com/
-#### + Git
+#### + Github
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 #### + Twitter
 - https://twitter.com/xsspayloads
