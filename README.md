@@ -7,10 +7,14 @@
 - https://paper.seebug.org
 - https://www.krcert.or.kr/data/secNoticeList.do
 - https://www.krcert.or.kr/data/secInfoList.do
+- https://securityonline.info/
+
 #### + Tool
 - https://www.kitploit.com/
+
 #### + Github
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+
 #### + Twitter
 - https://twitter.com/xsspayloads
 
