@@ -8,6 +8,7 @@
 - https://www.krcert.or.kr/data/secNoticeList.do
 - https://www.krcert.or.kr/data/secInfoList.do
 - https://securityonline.info/
+- https://www.xn--hy1b43d247a.com/
 
 #### + Tool
 - https://www.kitploit.com/
