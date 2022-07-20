@@ -9,6 +9,7 @@
 - https://www.krcert.or.kr/data/secInfoList.do
 - https://securityonline.info/
 - https://www.xn--hy1b43d247a.com/
+- https://linuxer.name/
 
 #### + Tool
 - https://www.kitploit.com/
