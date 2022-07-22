@@ -30,6 +30,7 @@
 - https://tech.trivago.com/
 - https://techblog.woowahan.com/
 - https://uber-developers.news/
+- https://devocean.sk.com/blog/index.do
 
 #### + Tool
 - https://www.kitploit.com/
