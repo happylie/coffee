@@ -31,6 +31,7 @@
 - https://techblog.woowahan.com/
 - https://uber-developers.news/
 - https://devocean.sk.com/blog/index.do
+- https://www.hahwul.com/archive/
 
 #### + Tool
 - https://www.kitploit.com/
